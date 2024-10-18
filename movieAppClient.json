@@ -1,5 +1,5 @@
 {
-    "url": "",
+    "url": "https://movieclient-rubia.vercel.app/",
     "endpoints": {
         "register": "/register",
         "login": "/login",
