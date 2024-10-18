@@ -9,8 +9,8 @@ function Home() {
   return (
     <div>
       <Container className="mt-5 text-center">
-        <h1>Balik Alindog Program!</h1>
-        <p>Track your movies, stay motivated, and achieve your fitness goals with our app.</p>
+        <h1>Binge Boss</h1>
+        <p>Welcome to Binge Boss—your ultimate movie marathon companion! Dive into a world where movies are not just watched; they’re binged. Whether you're hunting for hidden gems, rewatching classics, or exploring the latest blockbusters, Binge Boss has you covered. Ready to boss up your movie nights? Start your binge journey today!</p>
         {user.id !== null ? (
           <p>
             You're logged in. Head over to <Link to="/getMyMovies">My Movies</Link> to see your progress.

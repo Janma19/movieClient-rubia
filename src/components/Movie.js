@@ -117,7 +117,7 @@ export default function Movie({ movie }) {
           className="btn btn-outline-success btn-sm"
           onClick={() => updateMovieStatus(_id)}
         >
-          Mark as Complete
+          Show
         </button>
         <button
           className="btn btn-outline-danger btn-sm"
